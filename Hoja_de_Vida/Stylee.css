@@ -1,0 +1,459 @@
+.fondoframe {
+  /* Frame 1 */
+
+  position: relative;
+  width: 800px;
+  height: 600px;
+
+  margin: 0%;
+  padding: 0%;
+
+  background: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+progress[value] {
+  width: 250px;
+  height: 35px;
+
+  /* Reinicializar estilos */
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: #000;
+  border-radius: 20px;
+}
+
+progress[value]::-webkit-progress-value {
+  background-color: #ff7a00;
+  border-radius: 20px;
+}
+
+.habilidades {
+  /* Habilidades */
+
+  position: absolute;
+  width: 504px;
+  height: 737px;
+  left: 898px;
+  top: 15px;
+}
+
+.txtMkTools {
+  /* MKTools Supervisor de Eventos 2022-2022 */
+
+  position: absolute;
+  width: 271px;
+  height: 106px;
+  left: 419px;
+  top: 587px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtComidas {
+  /* Comidas Mexicanas Los Cuates Domiciliario 2022-Actualidad */
+
+  position: absolute;
+  width: 375px;
+  height: 109px;
+  left: 419px;
+  top: 468px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtExperiencia {
+  /* Experiencia */
+
+  position: absolute;
+  width: 206px;
+  height: 49px;
+  left: 419px;
+  top: 418px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtUni {
+  /* Ingenieria Informatica Institucion Universitaria de Envigado 2021-Actualidad */
+
+  position: absolute;
+  width: 406px;
+  height: 110px;
+  left: 419px;
+  top: 289px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtTecnica {
+  /* Tecnica Administracion de Empresas Cefit 2019-2020 */
+
+  position: absolute;
+  width: 404px;
+  height: 110px;
+  left: 419px;
+  top: 178px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtbachillerato {
+  /* Bachillerato Jose Manuel Restrepo Velez 2016-2022 */
+
+  position: absolute;
+  width: 323px;
+  height: 98px;
+  left: 419px;
+  top: 80px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtEducacion {
+  /* Educacion */
+
+  position: absolute;
+  width: 185px;
+  height: 65px;
+  left: 419px;
+  top: 9px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.intro {
+  /* intro */
+
+  position: absolute;
+  width: 388px;
+  height: 787px;
+  left: 0px;
+  top: 0px;
+
+  background: #f28b12;
+}
+
+.txtNombre {
+  /* Mateo Gomez Mejia */
+  position: absolute;
+  left: 1.03%;
+  right: 1.03%;
+  top: 52.22%;
+  bottom: 44.85%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtRol {
+  /* Estudiante de Ingenieria Informatica */
+
+  position: absolute;
+  left: 1.03%;
+  right: 1.03%;
+  top: 64.55%;
+  bottom: 30.79%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}
+
+.txtcorreo {
+  /* Correo:mateogmejia21@gmail.com */
+
+  position: absolute;
+  left: 0%;
+  right: 2.58%;
+  top: 75.35%;
+  bottom: 22.79%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtTel {
+  /* Tel: 315 473 2382 */
+
+  position: absolute;
+  left: 1.03%;
+  right: 46.13%;
+  top: 83.61%;
+  bottom: 14.13%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+img {
+  /* Foto */
+
+  position: absolute;
+  width: 388px;
+  height: 380px;
+  left: 0px;
+  top: 14px;
+
+  background: url(/Hoja_De_Vida/imagenes/Imagen\ de\ WhatsApp\ 2023-03-09\ a\ las\ 12.31.54.jpg);
+  border-radius: 360px;
+}
+.txthabilidad {
+  position: absolute;
+  left: 0.2%;
+  right: 57.74%;
+  top: 0%;
+  bottom: 91.99%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtprogramacion {
+  /* Programacion */
+
+  position: absolute;
+  left: 0%;
+  right: 65.87%;
+  top: 11.53%;
+  bottom: 85.48%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtAdmin {
+  /* Administracion de Empresas */
+
+  position: absolute;
+  left: 0.2%;
+  right: 38.49%;
+  top: 29.58%;
+  bottom: 66.62%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtliderazgo {
+  /* Liderazgo */
+
+  position: absolute;
+  left: 0%;
+  right: 65.87%;
+  top: 47.9%;
+  bottom: 49.12%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtNomina {
+  /* Nomina */
+
+  position: absolute;
+  left: 0.2%;
+  right: 65.67%;
+  top: 65.81%;
+  bottom: 31.21%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.txtIngles {
+  /* Ingles */
+
+  position: absolute;
+  left: 0%;
+  right: 65.87%;
+  top: 84.26%;
+  bottom: 12.75%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.posp {
+  /* pp */
+
+  position: absolute;
+  left: 0%;
+  right: 39.88%;
+  top: 17.37%;
+  bottom: 73.41%;
+}
+
+.pospa {
+  /* pa */
+
+  position: absolute;
+  left: 0%;
+  right: 39.88%;
+  top: 35.82%;
+  bottom: 54.95%;
+}
+
+.poslid {
+  /* pl */
+
+  position: absolute;
+  left: 0%;
+  right: 39.68%;
+  top: 53.73%;
+  bottom: 36.91%;
+}
+
+.posnom {
+  /* pn */
+
+  position: absolute;
+  left: 0%;
+  right: 39.88%;
+  top: 71.64%;
+  bottom: 19.13%;
+}
+
+.posing {
+  /* pi */
+
+  position: absolute;
+  left: 0%;
+  right: 39.68%;
+  top: 89.96%;
+  bottom: 0.68%;
+}

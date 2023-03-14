@@ -1,0 +1,444 @@
+.txtbanner {
+  /* HECHO POR: PIXEL */
+
+  position: absolute;
+  left: 9.24%;
+  right: 10.56%;
+  top: 25.14%;
+  bottom: 41.71%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}
+
+.Banner {
+  /* Banner */
+
+  position: absolute;
+  width: 1419px;
+  height: 175px;
+  left: 0px;
+  top: 1781px;
+
+  background: rgba(246, 216, 58, 0.4);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.contenidoCuadros {
+  /* Contenido */
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: rgba(79, 245, 1, 0.4);
+}
+
+.visagra {
+  /* Visagra */
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 81.52%;
+
+  background: rgba(61, 161, 0, 0.5);
+}
+
+.txtReto {
+  /* Retos */
+
+  position: absolute;
+  left: 33.75%;
+  right: 34%;
+  top: 3.7%;
+  bottom: 85.58%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.txtActividades {
+  /* Actividades */
+
+  position: absolute;
+  left: 24.72%;
+  right: 25.28%;
+  top: 3.7%;
+  bottom: 85.58%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.txtRepositorios {
+  /* Repositorio */
+
+  position: absolute;
+  left: 23.22%;
+  right: 23.77%;
+  top: 3.7%;
+  bottom: 85.58%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.txtOtros {
+  /* Otros */
+
+  position: absolute;
+  left: 33.75%;
+  right: 34%;
+  top: 3.7%;
+  bottom: 85.58%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.imagenlogo {
+  /* Logo iue */
+
+  position: absolute;
+  width: 177px;
+  height: 186px;
+  left: 24px;
+  top: 8px;
+
+  background: url();
+  border-radius: 360px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.circuloimgpersonal {
+  /* ImgPersonal */
+
+  position: absolute;
+  width: 424px;
+  height: 411px;
+  left: 904px;
+  top: 59px;
+
+  border-radius: 360px;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.imgpersonal {
+  /* Rectangle 1 */
+
+  position: absolute;
+  width: 430px;
+  height: 430px;
+  left: 890px;
+  top: 49px;
+
+  background: url();
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.fotoperfil {
+  /* Foto de Perfil */
+
+  position: absolute;
+  width: 424px;
+  height: 411px;
+  left: 904px;
+  top: 59px;
+}
+
+.cuadroinfopersonal {
+  /* Contenido */
+
+  position: absolute;
+  width: 740px;
+  height: 397px;
+  left: 99px;
+  top: 66px;
+
+  background: rgba(246, 216, 58, 0.4);
+}
+
+.txtcorreoInst {
+  /* Correo Institucional: mgomezmej@correo.iue.edu.co */
+
+  position: absolute;
+  left: 4.62%;
+  right: 8.03%;
+  top: 36.66%;
+  bottom: 54.84%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.txtcorreoperso {
+  /* Correo Personal: mateogmejia21@gmail.com */
+
+  position: absolute;
+  left: 4.59%;
+  right: 20.36%;
+  top: 47.86%;
+  bottom: 44.22%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.txtgithub {
+  /* GitHub: */
+
+  position: absolute;
+  left: 4.59%;
+  right: 20%;
+  top: 58.69%;
+  bottom: 35.26%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.txttelefono {
+  /* Telefono:3154732382 */
+
+  position: absolute;
+  left: 4.59%;
+  right: 41.56%;
+  top: 72.04%;
+  bottom: 17.99%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.txtrolActual {
+  /* Estudiante Ingenieria Informatica */
+
+  position: absolute;
+  left: 15.9%;
+  right: 24.96%;
+  top: 16.42%;
+  bottom: 74.19%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.txtNombre {
+  /* Mateo Gomez Mejia */
+
+  position: absolute;
+  left: 15.38%;
+  right: 20.34%;
+  top: 3.52%;
+  bottom: 85.92%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #000000;
+}
+
+.txtneocities {
+  /* NeoCities: */
+
+  position: absolute;
+  left: 5.54%;
+  right: 41.62%;
+  top: 84.63%;
+  bottom: 6.8%;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.contenidoInforpers {
+  /* Informacion Personal */
+  position: absolute;
+  width: 740px;
+  height: 397px;
+  left: 92px;
+  top: 66px;
+
+  background: rgba(255, 122, 0, 0.49);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.fondoFrame {
+  position: relative;
+  width: 1419px;
+  height: 1956px;
+
+  margin: 0%;
+  padding: 0%;
+
+  background: url(/Mi_Pagina_Web/imagenes/2255.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.listaRetos {
+  /* ListaRetos */
+
+  position: absolute;
+  width: 532px;
+  height: 541px;
+  left: 96px;
+  top: 506px;
+
+  background: rgba(79, 245, 1, 0.51);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.listaActividades {
+  /* ListaActividades */
+
+  position: absolute;
+  width: 532px;
+  height: 541px;
+  left: 839px;
+  top: 506px;
+
+  background: rgba(79, 245, 1, 0.51);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.listaRepositorios {
+  /* ListaRepositorios */
+
+  position: absolute;
+  width: 532px;
+  height: 541px;
+  left: 92px;
+  top: 1143px;
+
+  background: rgba(79, 245, 1, 0.51);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.listaOtros {
+  /* ListaOtros */
+
+  position: absolute;
+  width: 532px;
+  height: 541px;
+  left: 832px;
+  top: 1143px;
+
+  background: rgba(79, 245, 1, 0.51);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.todoinfopersonal {
+  /* Todo Info */
+
+  position: absolute;
+  width: 832px;
+  height: 463px;
+  left: 7px;
+  top: 0px;
+}
+
+li {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+}

@@ -1,0 +1,433 @@
+.logo {
+  position: absolute;
+  width: 116px;
+  height: 86px;
+  left: 89px;
+  top: 80px;
+}
+
+.BHome {
+  position: absolute;
+  width: 40px;
+  height: 17px;
+  left: 776px;
+  top: 111px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.BNews {
+  position: absolute;
+  width: 38px;
+  height: 17px;
+  left: 878px;
+  top: 111px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.BPopular {
+  position: absolute;
+  width: 51px;
+  height: 17px;
+  left: 978px;
+  top: 111px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.BTrending {
+  position: absolute;
+  width: 59px;
+  height: 17px;
+  left: 1091px;
+  top: 111px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.BCategories {
+  position: absolute;
+  width: 73px;
+  height: 17px;
+  left: 1212px;
+  top: 111px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.ImgPpal {
+  position: absolute;
+  width: 754px;
+  height: 299px;
+  left: 89px;
+  top: 167px;
+
+  background: url(Img/image-web-3-desktop.jpg);
+}
+
+.FondoNoti {
+  position: absolute;
+  width: 418px;
+  height: 519px;
+  left: 867px;
+  top: 167px;
+  background: rgba(0, 0, 0, 0.94);
+}
+
+.TituloNoti {
+  position: absolute;
+  width: 70px;
+  height: 39px;
+  left: 897px;
+  top: 192px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #f7bb74;
+}
+
+.NotiT1 {
+  position: absolute;
+  width: 311px;
+  height: 29px;
+  left: 889px;
+  top: 261px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.Noti1 {
+  position: absolute;
+  width: 345px;
+  height: 44px;
+  left: 889px;
+  top: 312px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.hr1 {
+  position: absolute;
+  width: 372px;
+  height: 0px;
+  left: 895px;
+  top: 384px;
+  border: 1px solid #ffffff;
+}
+
+.NotiT2 {
+  position: absolute;
+  width: 338px;
+  height: 29px;
+  left: 889px;
+  top: 412px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.Noti2 {
+  position: absolute;
+  width: 345px;
+  height: 44px;
+  left: 889px;
+  top: 463px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.hr2 {
+  position: absolute;
+  width: 372px;
+  height: 0px;
+  left: 895px;
+  top: 537px;
+  border: 1px solid #ffffff;
+}
+
+.NotiT3 {
+  position: absolute;
+  width: 298px;
+  height: 29px;
+  left: 889px;
+  top: 561px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.Noti3 {
+  position: absolute;
+  width: 347px;
+  height: 44px;
+  left: 889px;
+  top: 608px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.Bright {
+  position: absolute;
+  width: 259px;
+  height: 174px;
+  left: 89px;
+  top: 480px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 58px;
+  color: #000000;
+}
+
+.text {
+  position: absolute;
+  width: 352px;
+  height: 76px;
+  left: 452px;
+  top: 512px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.BRead {
+  position: absolute;
+  width: 194px;
+  height: 51px;
+  left: 452px;
+  top: 635px;
+  background-color: #ff6666;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+.Img1 {
+  position: absolute;
+  width: 140px;
+  height: 160px;
+  left: 85px;
+  top: 742px;
+  background: url(Img/image-retro-pcs.jpg);
+}
+
+.Uno {
+  position: absolute;
+  width: 38px;
+  height: 39px;
+  left: 243px;
+  top: 742px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #d9d9d9;
+}
+
+.TUno {
+  position: absolute;
+  width: 137px;
+  height: 18px;
+  left: 243px;
+  top: 791px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.TextUno {
+  position: absolute;
+  width: 168px;
+  height: 30px;
+  left: 243px;
+  top: 823px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.Img2 {
+  position: absolute;
+  width: 140px;
+  height: 160px;
+  left: 448px;
+  top: 742px;
+  background: url(Img/image-top-laptops.jpg);
+}
+
+.Dos {
+  position: absolute;
+  width: 43px;
+  height: 39px;
+  left: 624px;
+  top: 742px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #d9d9d9;
+}
+
+.TDos {
+  position: absolute;
+  width: 173px;
+  height: 18px;
+  left: 624px;
+  top: 791px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #000000;
+}
+
+.TextDos {
+  position: absolute;
+  width: 146px;
+  height: 30px;
+  left: 624px;
+  top: 823px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.Img3 {
+  position: absolute;
+  width: 140px;
+  height: 160px;
+  left: 863px;
+  top: 742px;
+
+  background: url(Img/image-gaming-growth.jpg);
+}
+
+.Tres {
+  position: absolute;
+  width: 44px;
+  height: 39px;
+  left: 1039px;
+  top: 742px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #d9d9d9;
+}
+
+.TTres {
+  position: absolute;
+  width: 165px;
+  height: 18px;
+  left: 1039px;
+  top: 791px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #000000;
+}
+
+.TextTres {
+  position: absolute;
+  width: 179px;
+  height: 30px;
+  left: 1039px;
+  top: 823px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  color: #000000;
+}
+
+.seccion{
+    margin-bottom: 10px;
+   
+}
+
+.seccion1{
+    position: absolute;
+width: 1317px;
+height: 58px;
+left: 61px;
+top: 929px;
+
+background: #ffffff;
+}

@@ -1,0 +1,1028 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  color: #ffffff;
+}
+.fondo {
+  position: relative;
+
+  margin: 0%;
+  padding: 0%;
+
+  background: url(/ReDiseño-Portafolio/img/56597-marmol-negro.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media only screen and (max-width: 767px) {
+  .fondo {
+    position: relative;
+    width: 360px;
+    height: 1780px;
+
+    margin: 0%;
+    padding: 0%;
+
+    background: url(/ReDiseño-Portafolio/img/56597-marmol-negro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .imgp {
+    position: absolute;
+    width: 180px;
+    height: 186px;
+    left: 90px;
+    top: 12px;
+
+    background: url(/ReDiseño-Portafolio/img/FotoReducida.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .Descripcion {
+    position: absolute;
+    width: 326px;
+    height: 219px;
+    left: 15px;
+    top: 223px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDescripcion {
+    position: absolute;
+    left: 3.99%;
+    right: 3.99%;
+    top: 5.94%;
+    bottom: 5.02%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #ffffff;
+  }
+  .Informacion {
+    position: absolute;
+    width: 326px;
+    height: 130px;
+    left: 15px;
+    top: 474px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtNombre {
+    position: absolute;
+    left: 3.99%;
+    right: 47.55%;
+    top: 3.08%;
+    bottom: 81.54%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .txtCorreoP {
+    position: absolute;
+    left: 3.99%;
+    right: 4.6%;
+    top: 23.08%;
+    bottom: 64.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #ffffff;
+  }
+  .txtCorreoI {
+    position: absolute;
+    left: 3.99%;
+    right: 13.19%;
+    top: 40.77%;
+    bottom: 47.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .txtGithub {
+    position: absolute;
+    left: 3.99%;
+    right: 30.37%;
+    top: 58.46%;
+    bottom: 30%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .txtTelefono {
+    position: absolute;
+    left: 3.99%;
+    right: 25.46%;
+    top: 77.69%;
+    bottom: 7.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #ffffff;
+  }
+  .Retos {
+    position: absolute;
+    width: 326px;
+    height: 242.18px;
+    left: 15px;
+    top: 636px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtRetos {
+    position: absolute;
+    left: 38.04%;
+    right: 37.73%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HRetos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 82.66%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LRetos {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Conceptos {
+    position: absolute;
+    width: 326px;
+    height: 242.18px;
+    left: 15px;
+    top: 910px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtConceptos {
+    position: absolute;
+    left: 27.61%;
+    right: 27.61%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HConceptos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 82.66%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LConceptos {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Diseños {
+    position: absolute;
+    width: 326px;
+    height: 242.18px;
+    left: 15px;
+    top: 1184px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDiseños {
+    position: absolute;
+    left: 32.52%;
+    right: 32.21%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HDiseños {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 82.66%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LDiseños {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Implementacion {
+    position: absolute;
+    width: 326px;
+    height: 242.18px;
+    left: 15px;
+    top: 1458px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtImplementacion {
+    position: absolute;
+    left: 17.48%;
+    right: 17.48%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HImplementacion {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 82.66%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LImplementacion {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    padding: 5px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .fondo {
+    position: relative;
+    width: 1467px;
+    height: 633px;
+
+    margin: 0%;
+    padding: 0%;
+
+    background: url(/ReDiseño-Portafolio/img/56597-marmol-negro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .imgp {
+    position: absolute;
+    width: 227px;
+    height: 239px;
+    left: 42px;
+    top: 23px;
+
+    background: url(/ReDiseño-Portafolio/img/FotoAgrandada.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .Descripcion {
+    position: absolute;
+    width: 657px;
+    height: 216px;
+    left: 303px;
+    top: 38px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDescripcion {
+    position: absolute;
+    left: 3.99%;
+    right: 3.99%;
+    top: 5.94%;
+    bottom: 5.02%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .Informacion {
+    position: absolute;
+    width: 439px;
+    height: 216px;
+    left: 992px;
+    top: 38px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtNombre {
+    position: absolute;
+    left: 3.99%;
+    right: 27.45%;
+    top: 3.08%;
+    bottom: 78.87%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .txtCorreoP {
+    position: absolute;
+    position: absolute;
+    left: 3.99%;
+    right: 4.6%;
+    top: 23.08%;
+    bottom: 64.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtCorreoI {
+    position: absolute;
+    left: 3.99%;
+    right: 13.19%;
+    top: 40.77%;
+    bottom: 47.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtGithub {
+    position: absolute;
+    left: 3.99%;
+    right: 30.37%;
+    top: 58.46%;
+    bottom: 32.74%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtTelefono {
+    position: absolute;
+    left: 3.99%;
+    right: 25.46%;
+    top: 77.69%;
+    bottom: 7.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .Retos {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 42px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtRetos {
+    position: absolute;
+    left: 38.04%;
+    right: 37.73%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HRetos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LRetos {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Conceptos {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 408px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtConceptos {
+    position: absolute;
+    left: 27.61%;
+    right: 27.61%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HConceptos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LConceptos {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Diseños {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 776px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDiseños {
+    position: absolute;
+    left: 32.52%;
+    right: 32.21%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HDiseños {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LDiseños {
+    position: absolute;
+    left: 10%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Implementacion {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 1144px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtImplementacion {
+    position: absolute;
+    left: 17.48%;
+    right: 17.48%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HImplementacion {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LImplementacion {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    padding: 5px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .fondo {
+    position: relative;
+    width: 1467px;
+    height: 633px;
+
+    margin: 0%;
+    padding: 0%;
+
+    background: url(/ReDiseño-Portafolio/img/56597-marmol-negro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .imgp {
+    position: absolute;
+    width: 227px;
+    height: 239px;
+    left: 42px;
+    top: 23px;
+
+    background: url(/ReDiseño-Portafolio/img/FotoAgrandada.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .Descripcion {
+    position: absolute;
+    width: 657px;
+    height: 216px;
+    left: 303px;
+    top: 38px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDescripcion {
+    position: absolute;
+    left: 3.99%;
+    right: 3.99%;
+    top: 5.94%;
+    bottom: 5.02%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .Informacion {
+    position: absolute;
+    width: 439px;
+    height: 216px;
+    left: 992px;
+    top: 38px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtNombre {
+    position: absolute;
+    left: 3.99%;
+    right: 27.45%;
+    top: 3.08%;
+    bottom: 78.87%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .txtCorreoP {
+    position: absolute;
+    position: absolute;
+    left: 3.99%;
+    right: 4.6%;
+    top: 23.08%;
+    bottom: 64.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtCorreoI {
+    position: absolute;
+    left: 3.99%;
+    right: 13.19%;
+    top: 40.77%;
+    bottom: 47.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtGithub {
+    position: absolute;
+    left: 3.99%;
+    right: 30.37%;
+    top: 58.46%;
+    bottom: 32.74%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .txtTelefono {
+    position: absolute;
+    left: 3.99%;
+    right: 25.46%;
+    top: 77.69%;
+    bottom: 7.69%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+  }
+  .Retos {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 42px;
+    top: 284px;
+
+    
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtRetos {
+    position: absolute;
+    left: 38.04%;
+    right: 37.73%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HRetos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LRetos {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Conceptos {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 408px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtConceptos {
+    position: absolute;
+    left: 27.61%;
+    right: 27.61%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HConceptos {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LConceptos {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Diseños {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 776px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtDiseños {
+    position: absolute;
+    left: 32.52%;
+    right: 32.21%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HDiseños {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LDiseños {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+  .Implementacion {
+    position: absolute;
+    width: 287px;
+    height: 316px;
+    left: 1144px;
+    top: 284px;
+
+    background: rgba(155, 154, 155, 0.35);
+  }
+  .txtImplementacion {
+    position: absolute;
+    left: 17.48%;
+    right: 17.48%;
+    top: 1.65%;
+    bottom: 84.31%;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+    color: #ffffff;
+  }
+  .HImplementacion {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 84.18%;
+
+    background: rgba(155, 154, 155, 0.53);
+  }
+  .LImplementacion {
+    position: absolute;
+    left: 5.52%;
+    right: 5.21%;
+    top: 17.34%;
+    bottom: 4.62%;
+
+    padding: 5px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+
+    color: #ffffff;
+  }
+}
